@@ -29,7 +29,7 @@ Checklist for the rooms that I have completed so far
 - [ ] RustScan (I invented RustScan so excuse the self-promo) https://tryhackme.com/room/rustscan
 
 **More introductory CTFs**
-- [ ] Vulnversity - https://tryhackme.com/room/vulnversity
+- [x] Vulnversity - https://tryhackme.com/room/vulnversity
 - [x] Blue - https://tryhackme.com/room/blue
 - [x] Simple CTF https://tryhackme.com/room/easyctf
 - [ ] Bounty Hacker https://tryhackme.com/room/cowboyhacker
@@ -41,14 +41,14 @@ Checklist for the rooms that I have completed so far
 - [ ] The Cod Caper https://tryhackme.com/room/thecodcaper
 - [x] Ice https://tryhackme.com/room/ice
 - [ ] Lazy Admin https://tryhackme.com/room/lazyadmin
-- [ ] Basic Pentesting https://tryhackme.com/room/basicpentestingjt
+- [x] Basic Pentesting https://tryhackme.com/room/basicpentestingjt
 
 # Level 4 - Web
 - [ ] OWASP top 10 https://tryhackme.com/room/owasptop10
 - [ ] Inclusion https://tryhackme.com/room/inclusion
 - [ ] Injection https://tryhackme.com/room/injection
-- [ ] Vulnversity https://tryhackme.com/room/vulnversity
-- [ ] Basic Pentesting https://tryhackme.com/room/basicpentestingjt
+- [x] Vulnversity https://tryhackme.com/room/vulnversity
+- [x] Basic Pentesting https://tryhackme.com/room/basicpentestingjt
 - [ ] Juiceshop https://tryhackme.com/room/owaspjuiceshop
 - [ ] Ignite https://tryhackme.com/room/ignite
 - [ ] Overpass https://tryhackme.com/room/overpass
@@ -67,7 +67,7 @@ Checklist for the rooms that I have completed so far
 - [ ] Dumping Router Firmware https://tryhackme.com/room/rfirmware
 
 # Level 6 - Networking
-- [ ] Introduction to Networking https://tryhackme.com/room/introtonetworking
+- [x] Introduction to Networking https://tryhackme.com/room/introtonetworking
 - [ ] Smag Grotto https://tryhackme.com/room/smaggrotto
 - [ ] Overpass 2 https://tryhackme.com/room/overpass2hacked
 
@@ -79,7 +79,7 @@ Checklist for the rooms that I have completed so far
 - [ ] Windows Privesc https://tryhackme.com/room/windows10privesc
 - [ ] Blaster https://tryhackme.com/room/blaster
 - [ ] Ignite https://tryhackme.com/room/ignite
-- [ ] Kenobi https://tryhackme.com/room/kenobi
+- [x] Kenobi https://tryhackme.com/room/kenobi
 - [ ] Capture the flag https://tryhackme.com/room/c4ptur3th3fl4g
 - [x] Pickle Rick https://tryhackme.com/room/picklerick
 
