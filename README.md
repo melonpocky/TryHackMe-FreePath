@@ -1,4 +1,4 @@
-# TryHackMe-BeginnerPath
+# TryHackMe-FreePath
 
 Checklist for the rooms that I have completed so far
 
