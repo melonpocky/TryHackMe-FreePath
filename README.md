@@ -1,6 +1,8 @@
 # TryHackMe-FreePath
 
 Checklist for the rooms that I have completed so far
+Also notes
+Alternative to Grammarly : https://languagetool.org/
 
 # Level 1 - Intro
 - [x] OpenVPN https://tryhackme.com/room/openvpn
