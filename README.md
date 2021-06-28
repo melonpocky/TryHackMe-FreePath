@@ -1,8 +1,10 @@
 # TryHackMe-FreePath
 
 Checklist for the rooms that I have completed so far
-Also notes
-Alternative to Grammarly : https://languagetool.org/
+* Also notes
+* Alternative to Grammarly : https://languagetool.org/
+* Checklist derived from website: https://blog.tryhackme.com/free_path/
+* I did not create the checklist btw, this is more for my own reference. 
 
 # Level 1 - Intro
 - [x] OpenVPN https://tryhackme.com/room/openvpn
@@ -28,7 +30,7 @@ Alternative to Grammarly : https://languagetool.org/
 - [ ] Linux Privesc https://tryhackme.com/room/linuxprivesc
 - [ ] Web Scanning https://tryhackme.com/room/rpwebscanning
 - [ ] Shodan https://tryhackme.com/room/shodan
-- [ ] RustScan (I invented RustScan so excuse the self-promo) https://tryhackme.com/room/rustscan
+- [ ] RustScan https://tryhackme.com/room/rustscan
 
 **More introductory CTFs**
 - [x] Vulnversity - https://tryhackme.com/room/vulnversity
